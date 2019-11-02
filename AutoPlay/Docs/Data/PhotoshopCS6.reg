@@ -1,0 +1,82 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\B0FCFEA40359]
+@="E27F9B2D8F0A8D8D9954940E6A89E2FA4E787818"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="5baccea1-8e4b-467e-bc44-0cc35e1c925e"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="694057C62AEA7111C9B9EBE620B4F07A"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-02T19:44:29.9033Z]
+@="C:\\Users\\PHILCO\\Desktop\\convi.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-03T13:49:10.8430Z]
+@="C:\\Users\\PHILCO\\Desktop\\fundo-vermelho (5).jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-03T14:14:55.9102Z]
+@="C:\\Users\\PHILCO\\Desktop\\foto cortada.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-03T14:21:53.4543Z]
+@="C:\\Users\\PHILCO\\Desktop\\moldura.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-03T15:00:03.7155Z]
+@="C:\\Users\\PHILCO\\Desktop\\Sem Título-1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-03T15:00:03.7376Z]
+@="C:\\Users\\PHILCO\\Desktop\\foto cortada.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-04T11:50:24.20Z]
+@="C:\\Users\\PHILCO\\Desktop\\convitefim.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-04T11:51:35.3601Z]
+@="C:\\Users\\PHILCO\\Desktop\\desenho01.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-01-05T13:30:01.2922Z]
+@="C:\\Users\\PHILCO\\Desktop\\desenho01.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"MemoryUsage"=dword:0000003c
+"uiLanguageKey CS6"="en_US"
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[40,21,1230,671]"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\PHILCO\\Desktop\\"
